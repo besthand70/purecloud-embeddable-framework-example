@@ -5,7 +5,7 @@ window.Framework = {
         name:"ExampleGitHubApp",
         clientIds: {
             'mypurecloud.com': '',
-            'mypurecloud.ie': '',
+            'mypurecloud.ie': '06a5da88-3c74-4fd2-bff9-1a2c411406e4',
             'mypurecloud.com.au': '',
             'mypurecloud.jp': '',
             'mypurecloud.de': ''
