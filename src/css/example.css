@@ -10,7 +10,7 @@ body > div > iframe {
     width: inherit;
     height: inherit;
     border: none;
-    font-family: 'Segoe UI';
+    font-family: 'Segoe UI'; 
 }
 
 .content {

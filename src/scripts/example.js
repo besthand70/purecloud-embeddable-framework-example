@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded',function(){
     document.getElementById('view-callback').addEventListener("click", setView);
     document.getElementById('view-settings').addEventListener("click", setView);
 
-    window.addEventListener("message", function(event) {
+    window.addEventListener("message", function(event) { 
         var message = JSON.parse(event.data);
         if(message){
             if(message.type == "screenPop"){
