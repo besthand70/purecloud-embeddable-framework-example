@@ -6,12 +6,15 @@
     right: 10px;
 }
 
+body {
+    font-family: 'Segoe UI';
+}
+
 body > div > iframe {
     width: inherit;
     height: inherit;
     border: none;
-    font-family: 'Segoe UI'; 
-}
+ }
 
 .content {
     width: calc(100% - 220px);
